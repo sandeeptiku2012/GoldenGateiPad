@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'PrimeTimeIOSXvid' target in the 'PrimeTimeIOSXvid' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif

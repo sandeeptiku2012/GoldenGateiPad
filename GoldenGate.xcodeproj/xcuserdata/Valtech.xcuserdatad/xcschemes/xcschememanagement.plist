@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>GoldenGate Testing.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>GoldenGate.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>KIFTesting.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>35045FC01785C046008AC383</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CA7F9F521647D88C00F32035</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CAC6549815D949DB007AB723</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CAC654B915D949DB007AB723</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
